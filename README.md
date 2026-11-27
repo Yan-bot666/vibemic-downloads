@@ -4,11 +4,11 @@
 
 > 本仓库只提供**使用说明与安装包下载**，不包含源代码。
 
-<img src="images/icon.png" width="72" alt="声钥应用图标">
+<img src="icon.png" width="72" alt="声钥应用图标">
 
 | 电脑端 | 设备端 |
 | --- | --- |
-| <img src="images/desktop-overview.png" width="620" alt="声钥电脑端概览：最近会话与投递状态"> | <img src="images/device-sessions.png" width="220" alt="声钥设备端会话列表：按 Claude / Codex 分组"> |
+| <img src="desktop-overview.png" width="620" alt="声钥电脑端概览：最近会话与投递状态"> | <img src="device-sessions.png" width="220" alt="声钥设备端会话列表：按 Claude / Codex 分组"> |
 
 设备端截图为离线布局预览，实际字体与像素以真机为准。
 
